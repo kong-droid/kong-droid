@@ -5,7 +5,7 @@
 
 ### Skills
 #### 1. 운영체제
-![os](https://skillicons.dev/icons?i=linux,apple,windows&theme=light)]
+![os](https://skillicons.dev/icons?i=linux,apple,windows&theme=light)
 
 #### 2. 인프라 & 클라우드
 ![infra&cloud](https://skillicons.dev/icons?i=aws,jenkins,githubactions&theme=light)
